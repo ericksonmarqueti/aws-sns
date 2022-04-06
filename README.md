@@ -6,7 +6,6 @@ Projeto de mensageria utilizando Spring Boot + Maven + AWS SNS.
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Ter instalado o `Eclipse` ou outra IDE de desenvolvimento `Java`.
 * Ter acesso aos web-services da Amazon em https://aws.amazon.com/pt/
-* 
 
 ## ⚙️ Configurando o web-service SNS na Amazon
 
