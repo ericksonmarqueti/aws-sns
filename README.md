@@ -36,7 +36,7 @@ Para usar a aplicação, siga estas etapas:
 2. Utilize o verbo "POST".
 3. Informe a seguinte URL: http://localhost:8080/v1/aws-sns/sendMessage
 3. Acesse o Body da request e selecione o tipo "raw". Altere o tipo Text para JSON.
-4. Informe um um conteúdo em Json válido na área de digitação. (ex: {"produto": "Notebook","valor": "3500.00"})
+4. Informe um conteúdo em Json válido na área de digitação. (ex: {"produto": "Notebook","valor": "3500.00"})
 5. Clique em SEND e aguarde. Caso a chamada retorne status 200, vá ao e-mail e consulte as propriedades recebidas.
 
 ```
